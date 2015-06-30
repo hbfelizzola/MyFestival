@@ -1,0 +1,16 @@
+PODS:
+  - ECSlidingViewController (2.0.3)
+  - Realm (0.93.2):
+    - Realm/Headers (= 0.93.2)
+  - Realm/Headers (0.93.2)
+
+DEPENDENCIES:
+  - ECSlidingViewController (~> 2.0.2)
+  - Realm
+  - Realm/Headers
+
+SPEC CHECKSUMS:
+  ECSlidingViewController: 6485c14f23b4487e9946535421ca8f111f86cc53
+  Realm: 2fdd0ae74f730e190384e0338d8a0d3654df8220
+
+COCOAPODS: 0.37.2
